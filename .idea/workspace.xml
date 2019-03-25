@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1e35ab9-ba17-4182-b152-24384ef01d55" name="Default Changelist" comment="" />
+    <list default="true" id="e1e35ab9-ba17-4182-b152-24384ef01d55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/shop_service_impl/service_member/src/main/java/feign/WxServiceFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop_service_impl/service_member/src/main/java/feign/WxServiceFeign.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/shop_basics/target/" />
@@ -24,7 +26,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop_service_impl/service_member/src/main/java/feign/WxServiceFeign.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,7 +95,6 @@
         <option value="$PROJECT_DIR$/shop_service_impl/service_member/src/main/java/fegin/WxServiceFegin.java" />
         <option value="$PROJECT_DIR$/shop_service_impl/pom.xml" />
         <option value="$PROJECT_DIR$/shop_service_impl/service_member/src/main/java/feign/WxServiceFegin.java" />
-        <option value="$PROJECT_DIR$/shop_service_impl/service_member/src/main/java/feign/WxServiceFeign.java" />
         <option value="$PROJECT_DIR$/shop_service_impl/service_member/src/main/java/MemberApp.java" />
         <option value="$PROJECT_DIR$/shop_service_impl/service_wx/src/main/java/app/WxApp.java" />
         <option value="$PROJECT_DIR$/shop_service_impl/service_member/src/main/java/app/MemberApp.java" />
@@ -88,6 +102,7 @@
         <option value="$PROJECT_DIR$/shop_service_api/service_api_wx/src/main/java/service/WxService.java" />
         <option value="$PROJECT_DIR$/shop_service_api/service_api_member/src/main/java/service/MemberService.java" />
         <option value="$PROJECT_DIR$/shop_service_impl/service_wx/src/main/java/service/WxServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop_service_impl/service_member/src/main/java/feign/WxServiceFeign.java" />
       </list>
     </option>
   </component>
@@ -97,7 +112,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="380" />
     <option name="y" value="115" />
     <option name="width" value="886" />
@@ -118,6 +133,51 @@
               <item name="shop_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop_parent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop_service_impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop_service_impl" type="462c0819:PsiDirectoryNode" />
+              <item name="service_member" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop_service_impl" type="462c0819:PsiDirectoryNode" />
+              <item name="service_member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop_service_impl" type="462c0819:PsiDirectoryNode" />
+              <item name="service_member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop_service_impl" type="462c0819:PsiDirectoryNode" />
+              <item name="service_member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop_service_impl" type="462c0819:PsiDirectoryNode" />
+              <item name="service_member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="feign" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -131,7 +191,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553490786521" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553492236143" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -264,7 +324,7 @@
       <workItem from="1553320948077" duration="4920000" />
       <workItem from="1553328367387" duration="3195000" />
       <workItem from="1553331617291" duration="5573000" />
-      <workItem from="1553487956213" duration="3014000" />
+      <workItem from="1553487956213" duration="3677000" />
     </task>
     <task id="LOCAL-00001" summary="卜瑞华-springcloud电商项目brhds">
       <created>1553489788350</created>
@@ -277,7 +337,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46989000" />
+    <option name="totallyTimeSpent" value="47652000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -289,7 +349,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26626325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -568,20 +629,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_service_impl/service_member/src/main/java/feign/WxServiceFeign.java">
+    <entry file="file://$PROJECT_DIR$/shop_service_impl/service_wx/src/main/java/service/WxServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="1" selection-start-line="7" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="264">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_service_impl/service_wx/src/main/java/service/WxServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/shop_service_impl/service_member/src/main/java/feign/WxServiceFeign.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="132">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
