@@ -1,0 +1,14 @@
+###服务端口号
+server:
+  port: 8100
+###eurekaIp地址
+eureka:
+  instance:
+    hostname: 127.0.0.1
+  client:
+    service-url:
+     defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+###因为自己是注册中心，自己不用注册到eureka
+    register-with-eureka: false
+###因为自己是注册中心，不用检索注册中心
+    fetch-registry: false

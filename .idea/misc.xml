@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_common/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_service_api/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_service_impl/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_portal/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_basics/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_basics/springcloud_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_service_api/service_wx/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_service_impl/service_wx_impl/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_service_api/service_wx_api/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_service_api/service_api_member/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_service_api/service_api_wx/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_service_impl/service_member/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_service_impl/service_wx/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/shop_basics/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service_api_member" />
+        <module name="service_api_wx" />
+        <module name="service_member" />
+        <module name="service_wx" />
+        <module name="springcloud_eureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="service_api_member" target="1.8" />
+      <module name="service_api_wx" target="1.8" />
+      <module name="service_member" target="1.8" />
+      <module name="service_wx" target="1.8" />
+      <module name="shop_basics" target="1.8" />
+      <module name="shop_common" target="1.8" />
+      <module name="shop_parent" target="1.8" />
+      <module name="shop_portal" target="1.8" />
+      <module name="shop_service_api" target="1.8" />
+      <module name="shop_service_impl" target="1.8" />
+      <module name="springcloud_eureka" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="service_api_member" options="-parameters" />
+      <module name="service_api_wx" options="-parameters" />
+      <module name="service_member" options="-parameters" />
+      <module name="service_wx" options="-parameters" />
+      <module name="shop_basics" options="-parameters" />
+      <module name="shop_common" options="-parameters" />
+      <module name="shop_parent" options="-parameters" />
+      <module name="shop_portal" options="-parameters" />
+      <module name="shop_service_api" options="-parameters" />
+      <module name="shop_service_impl" options="-parameters" />
+      <module name="springcloud_eureka" options="-parameters" />
+    </option>
+  </component>
+</project>

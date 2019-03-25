@@ -1,0 +1,12 @@
+###服务启动端口号    会员服务  member
+server:
+  port: 8300
+###注册到eureka的名字
+spring:
+  application:
+    name: brhds-member
+###注册到eureka的地址
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8100/eureka
