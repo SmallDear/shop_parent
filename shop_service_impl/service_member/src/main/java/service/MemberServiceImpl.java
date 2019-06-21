@@ -12,9 +12,9 @@ public class MemberServiceImpl implements MemberService {
     @Autowired
     private WxServiceFeign wxServiceFeign;
 
-    /*
+    /**
     * 会员调用微信接口
-    * */
+    */
     @Override
     @GetMapping(value = "memberInvokeWx")
     public AppWx memberInvokeWx() {
